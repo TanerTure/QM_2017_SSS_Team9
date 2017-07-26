@@ -2,12 +2,12 @@ import setuptools
 
 if __name__ == "__main__":
     setuptools.setup(
-        name='QM_2017_SSS_Team9',
+        name='rhf',
         version="0.1.1",
         description='A starting template for Python programs',
         author='Boyi Zhang',
         author_email='boyi.zhang25@uga.edu',
-        url="https://github.com/MolSSI-SSS/QM_2017_SSS_Team9",
+        url="https://github.com/MolSSI-SSS/rhf",
         license='BSD-3C',
         packages=setuptools.find_packages(),
         install_requires=[
